@@ -1,0 +1,2 @@
+# gosh
+golang shell helpers
